@@ -3,7 +3,7 @@ Yo! Its me!! Yathin!! But you can call me yat :p<br>
 I'm an Information Science student at The National Institute of Engineering, Mysuru :computer:<br>    
 I'm a front end developer :p but slowly transitioning into becoming a fullstack dev :D<br>
 I also love making Discord Bots and learn something new everytime :sunny:<br>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fisraelvicars%2Fpkmn-go-emoji&psig=AOvVaw2yIg6XZMjB2ZPnmr_VcZyK&ust=1614193641792000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCOCm_4fagO8CFQAAAAAdAAAAABAD"></img>I always try to contribute my work towards pokemon in some or the other way!
+
 
 <h3>Languages and Tools<h3>    
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
