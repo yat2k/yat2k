@@ -3,7 +3,7 @@ Yo! Its me!! Yathin!! But you can call me yat :p<br>
 I'm an Information Science student at The National Institute of Engineering, Mysuru :computer:<br>    
 I'm a front end developer :p but slowly transitioning into becoming a fullstack dev :D<br>
 I also love making Discord Bots and learn something new everytime :sunny:<br>
-![counter](https://en2js9jwkl5i7ig.m.pipedream.net)
+![counter](https://enzqf6vglvco8wv.m.pipedream.net)
 
 
 <h3>Languages and Tools<h3>    
