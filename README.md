@@ -15,6 +15,14 @@ I also love making Discord Bots and learn something new everytime :sunny:<br>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="max-width:100%;">
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width:100%;">
 <img align="left" alt="C" width="26px" src="https://logodix.com/logo/640491.png" style="max-width:100%;">
-<img align="left" alt="C" width="26px" src="https://logodix.com/logo/840708.png" style="max-width:100%;">
+<img align="left" alt="C" width="26px" src="https://logodix.com/logo/840708.png" style="max-width:100%;"><br>
+  
+  
+  
   
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yat2k&show_icons=true&locale=en&layout=compact" alt="yat2k" /></p><br><br><br><br><br><br>
+
+
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yat2k&" alt="yat2k" /></p>-->
