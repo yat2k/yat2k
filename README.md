@@ -3,7 +3,7 @@ Yo! Its me!! Yathin!! But you can call me yat :p<br>
 I'm an Information Science student at The National Institute of Engineering, Mysuru :computer:<br>    
 I'm a front end developer :p but slowly transitioning into becoming a fullstack dev :D<br>
 I also love making Discord Bots and learn something new everytime :sunny:<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yat2k&label=Profile%20views&color=0e75b6&style=flat" alt="yat2k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yat2k&label=Profile%20views&color=ff69b4&style=flat" alt="yat2k" /> </p>
 
 
 
