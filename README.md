@@ -1,7 +1,7 @@
 <h3>Intro</h3>  
 Yo! <br>
 I'm Yathin :p<br>
-I'm a 3rd year engineering student in NIE, Mysuru. Interested in web development :)
+I'm a 3rd year engineering student in NIE, Mysuru. Interested in web development :)<br>
 Currently learning React js.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yat2k&label=Profile%20views&color=ff69b4&style=flat" alt="yat2k" /> </p>
