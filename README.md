@@ -26,5 +26,5 @@ Currently learning React js.
   </p>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=yat2k&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=My%20Contributions" alt="yat" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yat2k&show_icons=true&locale=en&layout=compact&langs_count=9&theme=radical" alt="yat2k" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yat2k&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" alt="yat2k" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yat2k&theme=radical" alt="yat2k" />
