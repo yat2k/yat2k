@@ -29,4 +29,4 @@ Currently learning React js.
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yat2k&show_icons=true&locale=en&layout=compact&langs_count=9&theme=radical" alt="yat2k" />
 <br>
   
-<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yat2k&" alt="yat2k" /></p>
+<<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yat2k&" alt="yat2k" /></p>
